@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kloppy": {
+      "commandName": "Project",
+      "commandLineArgs": "--paste \"C:\\destination\\folder\""
+    }
+  }
+}
